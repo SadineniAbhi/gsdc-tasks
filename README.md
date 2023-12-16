@@ -1,2 +1,2 @@
 # gsdc-tasks
-task given in gdsc
+task given in gsdc
